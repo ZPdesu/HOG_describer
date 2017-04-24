@@ -6,3 +6,15 @@ This code is implemented from the bottom of the hog algorithm by python. [Peng Z
 * [OpenCV]
 * [matplotlib]
 * [Numpy]
+
+## Usage
+
+```
+$ git clone https://github.com/ZPdesu/HOG_descriptor
+$ cd HOG_descriptor
+```
+change the image name in hog_feature1.py or hog_feature2.py, then run it.
+
+## case images
+
+![s](sample_data/sample001.png)
