@@ -6,6 +6,10 @@ import matplotlib.pyplot as plt
 
 #first part
 
+img1 = plt.imread('sample_data/sample001.png')
+plt.imshow(img1)
+plt.show()
+
 img = cv2.imread('sample_data/sample001.png', cv2.IMREAD_GRAYSCALE)
 
 # plt.imshow(img, cmap=plt.cm.gray)
