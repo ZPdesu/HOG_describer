@@ -16,7 +16,7 @@ $ cd HOG_descriptor
 change the image name in hog_feature1.py or hog_feature2.py, then run it.
 
 ## case images
-![s](transform_graph/figure_1.png)
+![o](transform_graph/figure_1.png)
 ![s](transform_graph/Grayscale.png)
 ![s](transform_graph/Gamma_trans.png)
 
